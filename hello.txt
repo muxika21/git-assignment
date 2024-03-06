@@ -1,2 +1,6 @@
 Hello, Git world!
+<<<<<<< mybranch02
 This is mybranch02 codes
+=======
+Test change and merge request
+>>>>>>> feature-branch
